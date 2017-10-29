@@ -29,7 +29,19 @@
 	- @Service : Class Level Spring MVC Annotation
 	
 # HTTP Methods
-	- 
+	- GET, POST, PUT, DELETE
+	
+# Customizing Spring Boot
+	- Spring boot complies to "Convention over configuration" philosophy
+	- But sometimes we need configuration, this is done by application.properties file
+	- src/main/resources/application.properties
+	- Know the key/value and store it
+	- e.g: server.port=8081
+	
+# Spring Data JPA(Java Persistence API - ORM): The Data Tier
+	- Object-Relational Mapping means "Class <-> Table" mapping
+	- We will use: Spring Data JPA
+	
 	
 	
 	
