@@ -4,6 +4,9 @@ public class Topic {
 	private String id;
 	private String name;
 
+	public Topic() {
+	}
+
 	public Topic(String id, String name) {
 		this.id = id;
 		this.name = name;

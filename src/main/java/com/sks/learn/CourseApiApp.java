@@ -1,4 +1,4 @@
-package com.sks.learn.topic;
+package com.sks.learn;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
